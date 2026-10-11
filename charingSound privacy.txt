@@ -1,0 +1,173 @@
+# 隐私权政策 / Privacy Policy
+
+**应用名称 / App：** ChargingSound（充电音效）
+**开发者 / Developer：** siliyuan
+**联系邮箱 / Contact：** siliyuan@outlook.com
+**生效日期 / Effective Date：** 2026-10-11
+
+---
+
+## 中文版
+
+### 1. 引言
+
+本隐私权政策说明 ChargingSound（以下简称"本应用"）在你使用本应用时如何处理相关信息。
+我们非常重视你的隐私，本应用**无需注册账号**，也不会要求你提供姓名、手机号、邮箱等个人身份信息。
+使用本应用即表示你已阅读并同意本政策。
+
+### 2. 我们收集与使用的信息
+
+**2.1 我们不收集的信息**
+本应用不收集、不存储、不上传你的姓名、手机号、邮箱、通讯录、短信、精确位置、照片、摄像头或麦克风内容。
+
+**2.2 在本机处理、不上传的信息**
+- **电池与设备状态**：为显示电量、电池健康度、温度等信息，本应用在本机读取系统电池状态。这些数据仅在本机展示，不会上传到服务器。
+- **你选择的音频文件**：当你选择自定义充电音效时，本应用会在本机读取该音频文件用于播放，不会上传或分享。
+- **应用设置**：音效选择、开关等偏好仅保存在你的设备本地（SharedPreferences）。
+
+**2.3 由第三方服务收集的信息**
+为提供广告与内购功能，本应用集成了以下 Google 服务，它们可能会收集相应信息：
+
+| 服务 | 用途 | 可能收集的信息 |
+| --- | --- | --- |
+| Google AdMob（广告） | 展示横幅广告与插屏广告 | 广告标识符（Android Advertising ID）、设备型号与系统版本、粗略地理位置（由 IP 推断）、广告互动数据 |
+| Google Play 结算 | 处理音效购买 | 交易标识与购买凭证（**我们不接触、不存储你的支付卡信息**） |
+| Firebase Analytics | 统计应用使用情况以改进产品 | 应用使用事件、设备型号与系统版本、应用版本等匿名统计信息 |
+| Firebase Storage | 提供可下载的音效文件 | 仅用于下载音效文件，不涉及你的个人信息 |
+
+上述第三方服务的隐私政策：
+- Google 隐私权政策：https://policies.google.com/privacy
+- Google 广告与隐私：https://policies.google.com/technologies/ads
+- Firebase 隐私与安全：https://firebase.google.com/support/privacy
+
+### 3. 权限说明
+
+| 权限 | 用途 |
+| --- | --- |
+| `INTERNET` | 加载广告、下载音效、连接 Google 服务 |
+| `com.android.vending.BILLING` | 完成音效的 Google Play 内购 |
+| `READ_EXTERNAL_STORAGE` / `WRITE_EXTERNAL_STORAGE` | 读取你选择的自定义音频文件 |
+| `FOREGROUND_SERVICE` / `FOREGROUND_SERVICE_SPECIAL_USE` | 在后台持续监听充电状态并播放音效 |
+| 广告标识符（AD_ID） | 由广告 SDK 使用，用于展示广告 |
+
+所有权限均仅用于实现上述对应功能。你可以随时在系统设置中查看并管理这些权限。
+
+### 4. 信息的共享
+
+我们不会出售你的个人信息。仅在以下情形下信息会被共享：
+- 与上述 Google 服务提供商共享，用于实现广告与内购功能；
+- 依法律法规、司法或行政机关的强制要求而披露。
+
+### 5. 数据存储与安全
+
+本应用不设有用于存储你个人信息的服务器，你的偏好设置与选中的音效均保存在本机。
+第三方 SDK 收集的数据由其自行存储与保护，请参阅其隐私政策。
+
+### 6. 儿童隐私
+
+本应用不面向 13 周岁以下（或你所在司法辖区规定的相应年龄）的儿童。
+我们不会有意收集儿童的个人信息。如你认为我们无意中收集了此类信息，请联系我们予以删除。
+
+### 7. 你的权利与选择
+
+- **关闭个性化广告**：可在设备的「设置 → 隐私 → 广告」中重置或删除广告标识符，并关闭广告个性化。
+- **撤回数据收集同意**：卸载本应用即可停止全部数据收集。
+- **管理权限**：可在系统设置中随时关闭本应用的各项权限（关闭后相关功能将不可用）。
+
+### 8. 本政策的变更
+
+我们可能会适时更新本政策。更新后我们会在本页面公布最新版本并更新"生效日期"。
+重大变更将通过应用内或商店说明提示你。
+
+### 9. 联系我们
+
+如对本政策有任何疑问、意见或投诉，请联系：siliyuan@outlook.com
+
+---
+
+## English Version
+
+### 1. Introduction
+
+This Privacy Policy explains how ChargingSound (the "App") handles information when you use it.
+We take your privacy seriously. The App **requires no account registration** and does not ask you for
+personally identifying information such as your name, phone number, or email address.
+By using the App, you acknowledge that you have read and agreed to this Policy.
+
+### 2. Information We Collect and Use
+
+**2.1 Information We Do Not Collect**
+The App does not collect, store, or upload your name, phone number, email, contacts, messages, precise
+location, photos, camera, or microphone content.
+
+**2.2 Information Processed On Your Device Only**
+- **Battery and device status**: To display battery level, health, and temperature, the App reads the
+  system battery status locally. This data is shown on your device only and is never uploaded.
+- **Audio files you select**: When you choose a custom charging sound, the App reads that audio file
+  locally for playback only. It is never uploaded or shared.
+- **App settings**: Your preferences (selected sound, toggles, etc.) are stored only on your device
+  (SharedPreferences).
+
+**2.3 Information Collected by Third-Party Services**
+To provide advertising and in-app purchases, the App integrates the following Google services, which
+may collect the corresponding information:
+
+| Service | Purpose | Information that may be collected |
+| --- | --- | --- |
+| Google AdMob (ads) | Display banner and interstitial ads | Advertising ID (Android Advertising ID), device model and OS version, coarse location (inferred from IP), ad interaction data |
+| Google Play Billing | Process sound effect purchases | Transaction identifiers and purchase tokens (**we never access or store your payment card details**) |
+| Firebase Analytics | Measure app usage to improve the product | App usage events, device model and OS version, app version, and other anonymous statistics |
+| Firebase Storage | Deliver downloadable sound files | Used only to download sound files; no personal information is involved |
+
+Privacy policies of these third-party services:
+- Google Privacy Policy: https://policies.google.com/privacy
+- Google Ads & Privacy: https://policies.google.com/technologies/ads
+- Firebase Privacy & Security: https://firebase.google.com/support/privacy
+
+### 3. Permissions
+
+| Permission | Purpose |
+| --- | --- |
+| `INTERNET` | Load ads, download sound files, connect to Google services |
+| `com.android.vending.BILLING` | Complete in-app purchases via Google Play |
+| `READ_EXTERNAL_STORAGE` / `WRITE_EXTERNAL_STORAGE` | Read the custom audio files you select |
+| `FOREGROUND_SERVICE` / `FOREGROUND_SERVICE_SPECIAL_USE` | Keep monitoring charging status and playing sounds in the background |
+| Advertising ID (AD_ID) | Used by the ads SDK to serve advertising |
+
+Each permission is used solely for the function described above. You can review and manage these
+permissions at any time in your device settings.
+
+### 4. Sharing of Information
+
+We do not sell your personal information. Information is shared only:
+- with the Google service providers listed above, to enable advertising and in-app purchases; or
+- when required to disclose by law, court order, or a competent authority.
+
+### 5. Data Storage and Security
+
+The App operates no server for storing your personal information; your preferences and selected sounds
+are kept on your device. Data collected by third-party SDKs is stored and protected by those providers;
+please refer to their privacy policies.
+
+### 6. Children's Privacy
+
+The App is not directed to children under 13 (or the equivalent age in your jurisdiction).
+We do not knowingly collect personal information from children. If you believe we have inadvertently
+done so, please contact us so we can delete it.
+
+### 7. Your Rights and Choices
+
+- **Opt out of personalized ads**: You can reset or delete your Advertising ID and disable ad
+  personalization in your device's "Settings → Privacy → Ads".
+- **Withdraw consent**: Uninstalling the App stops all data collection.
+- **Manage permissions**: You can revoke any permission at any time in your device settings
+  (the related feature will then be unavailable).
+
+### 8. Changes to This Policy
+
+We may update this Policy from time to time. The latest version will be posted on this page with an
+updated "Effective Date". Material changes will be communicated in-app or via the store listing.
+
+### 9. Contact Us
+
+If you have any questions, comments, or complaints about this Policy, please contact: siliyuan@outlook.com
