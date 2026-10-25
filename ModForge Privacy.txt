@@ -1,0 +1,23 @@
+ModForge Privacy Policy (Last updated: 2026-10-23)
+
+What we collect
+1. Account data: username, email address and password (stored only as a hash), plus an optional avatar.
+2. Content you create: board data and preview images for cloud sync, and the text or canvas images you submit to the AI drawing feature.
+3. Purchase records: the result of membership purchases made through Google Play.
+4. Access logs: IP address, request time and endpoint, used for security and troubleshooting.
+
+How we use it
+Only to provide sign-in, cloud board storage, AI drawing, membership entitlements and basic security. We do not run ads and we do not sell data.
+
+Third-party services
+- Google Play Billing: processes membership payments.
+- A large language model provider (DeepSeek): processes AI drawing requests; only the text and images required for that request are sent.
+
+Retention and deletion
+Account and board data are kept on our servers until you delete your account. You can permanently delete your account and all cloud data in the app under Me → Delete account, or by emailing 1260608576@qq.com.
+
+Children
+The app is not directed to children under 13 and we do not knowingly collect their personal data.
+
+Contact
+1260608576@qq.com
